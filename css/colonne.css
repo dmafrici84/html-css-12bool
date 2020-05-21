@@ -1,0 +1,26 @@
+/* impostazioni generali */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* impostazioni sfondo colonne */
+.sfondo {
+  border: solid 1px black;
+  height: 140px;
+  background-color: pink;
+  line-height: 140px;
+  text-align: center;
+}
+
+/* impostazioni sottocolonne footer */
+.conteiner_nasted {
+  margin: 5px;
+}
+
+.nested {
+  background-color: #ff70b3;
+  height: 130px;
+  border: solid 1px white;
+}
