@@ -1,0 +1,39 @@
+/* impostazioni generali */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.quadratino {
+  height: 97.5px;
+  border: solid 1px black;
+}
+.sfondo {
+  height: 97.5px;
+  background-color: #1e2242;
+}
+.margine {
+  background-color: grey;
+}
+.yellow {
+  background-color: yellow;
+}
+.pink {
+  background-color: pink;
+}
+.orange {
+  background-color: orange;
+}
+.blue {
+  background-color: blue;
+}
+.red {
+  background-color: red;
+}
+.violet {
+  background-color: #8a018f;
+}
+.green {
+  background-color: green;
+}
